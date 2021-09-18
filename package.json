@@ -1,0 +1,17 @@
+{
+    "name": "iloohdissociatore",
+    "version": "2.0.3",
+    "description": "IloohDissociamendo",
+    "main": "main.js",
+    "scripts": {
+      "test": "echo \"Error: 405\" && exit 1"
+    },
+    "keywords": [
+      "bot",
+      "midissocio",
+      "mi-dissocio"
+    ],
+    "dependencies": {
+      "telegraf": "^4.3.0"
+    }
+}
